@@ -1,1 +1,1 @@
-hi
+"End-to-end Digit recognition project"
